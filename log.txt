@@ -1,0 +1,6 @@
+
+Command Line used:  concert-this Celine Dion. 
+Command Line used:  spotify-this-song Metallica. 
+Command Line used:  spotify-this-song Alicia Keys. 
+Command Line used:  movie-this Mr.Nobody. 
+Command Line used:  spotify-this-song "I Want it That Way". 
